@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 Welcome to Github Profile
+
+<img src="intro.gif" alt="👋 Hi there! I'm Lakshay Chhabra" title="👋 Hi there! I'm Lakshay Chhabra"/>
+
+<p align="justify">
+<b>Welcome to my GitHub Profile</b>.<br>
+  I am Lakshay Chhbara, Ambitious Computer Science AIML Student with a Passion for AI. B.Tech student at Panipat Institute of Engineering and Technology<br>
+ I learn new things about programming and teach these things to others Also, inside LinkedIn, I have a media called <a href="https://www.linkedin.com/in/lakshay-chhabra-941b08235/">Lakshay Chhabra</a> that shares everything about myself.
+
+</p>
 
 <!--
 **LakshayChhabra248/LakshayChhabra248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
