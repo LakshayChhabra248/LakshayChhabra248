@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to Github Profile
 
-<img src="intro.gif" alt="👋 Hi there! I'm Lakshay Chhabra" title="👋 Hi there! I'm Lakshay Chhabra"/>
+<img src="intro.gif.gif" alt="👋 Hi there! I'm Lakshay Chhabra" title="👋 Hi there! I'm Lakshay Chhabra"/>
 
 <p align="justify">
 <b>Welcome to my GitHub Profile</b>.<br>
