@@ -68,8 +68,7 @@ Here is a list of my projects, feel free to explore them:
      </td>
     <td align="center" width="150">
       <a href="https://github.com/LakshayChhabra248/My-Projects/tree/main/Clear%20the%20Clutter">Clear the Clutter</a>
-        <br>
-      src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
+        <br> src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
     </td>
        <td align="center" width="150">
       <a href="https://github.com/LakshayChhabra248/My-Projects/tree/main/CSV%20Analyzer">CSV Analyzer</a>
