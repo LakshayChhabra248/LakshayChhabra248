@@ -72,8 +72,7 @@ Here is a list of my projects, feel free to explore them:
     </td>
        <td align="center" width="150">
       <a href="https://github.com/LakshayChhabra248/My-Projects/tree/main/CSV%20Analyzer">CSV Analyzer</a>
-        <br>
-         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
+        <br> src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
     </td>
    <td align="center" width="150">
         <a href="https://github.com/LakshayChhabra248/My-Projects/tree/main/Guess%20the%20Number%20Game">Guess The Number Game</a>
