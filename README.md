@@ -51,6 +51,7 @@
     </td>
   </tr>
  <tr>
+     <!-- Add more skills rows if needed -->
  </tr>
 </table>
 
@@ -97,21 +98,39 @@ Here is a list of my projects, feel free to explore them:
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
     </td>
     <td align="center" width="150">
+      <a href="https://github.com/LakshayChhabra248/My-Projects/tree/main/Hangman%20Game">Hangman Game</a>
+        <br>
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
+    </td>
+  </tr>
+  <!-- Start New Row For ScoreSight -->
+  <tr>
+    <td align="center" width="150">
+      <a href="https://github.com/LakshayChhabra248/My-Projects/tree/main/ScoreSight">ScoreSight</a> <!-- <<< UPDATE LINK IF NEEDED -->
+        <br>
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
+    </td>
+    <td align="center" width="150"> <!-- Empty Cell for spacing -->
+    </td>
+    <td align="center" width="150"> <!-- Empty Cell for spacing -->
+    </td>
+    <td align="center" width="150"> <!-- Empty Cell for spacing -->
     </td>
   </tr>
 </table>
+
 <details>
 <summary><b> 🚀 Upcoming Projects (Under Development) 🚧 </b></summary>
 
-  
-**8. Sonic Bridge 🔈**
-  
+<!-- Renumbered these based on your previous edit -->
+**10. Sonic Bridge 🔈**
+
   *   **Description:** An Android app to sync audio in real-time across multiple devices using Wi-Fi Direct, NSD, Bluetooth, NTP, and PTP.
   *   **Languages:** Kotlin, C/C++
   *   **Status:** Under Development
-  
-**9. TapID 💳**
-  
+
+**11. TapID 💳**
+
   *   **Description:** A revolutionary system for schools using NFC cards for student IDs, payments, attendance, geofencing, and emergency location tracking. Includes an Android app, website, and server-side components.
   *   **Languages:** Kotlin, Javascript, Java
     *  **Status:** Under Development
