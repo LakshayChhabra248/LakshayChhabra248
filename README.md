@@ -33,7 +33,7 @@ class Lakshay:
     pronouns    = "he/him"
     education   = "B.Tech CS (AI & ML) @ PIET, Panipat"
     passions    = ["Artificial Intelligence", "Machine Learning", "Full Stack Dev", "Android"]
-    currently   = "Building Sonic Bridge 🔈 + TapID 💳"
+    currently   = "Building SyncTune 🔈 + Neo Card 💳"
     ask_me_about = ["Python", "AI/ML", "Kotlin", "Android Dev", "Problem Solving"]
     fun_fact    = "I debug code at 2AM and call it 'deep focus mode' 🌙"
     
