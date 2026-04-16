@@ -1,337 +1,428 @@
-<img src="intro.gif.gif" alt="👋 Hi there! I'm Lakshay Chhabra" title="👋 Hi there! I'm Lakshay Chhabra"/>
 <div align="center">
 
-# 👋 Hi there! I'm Lakshay Chhabra
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Lakshay%20Chhabra&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Building%20the%20Future%2C%20One%20Line%20at%20a%20Time&descAlignY=70&descSize=20&descColor=A177FF" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FF&center=true&vCenter=true&width=940&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%26+Innovator+%F0%9F%9A%80" alt="Typing SVG" />
+<br/>
 
-### 🎓 B.Tech in Computer Science (AI & ML) | Panipat Institute of Engineering and Technology
+<a href="https://www.linkedin.com/in/lakshay-chhabra-941b08235/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:lakshaychhabra248@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/LakshayChhabra248" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p align="center">
-  <em>Passionate developer dedicated to crafting innovative solutions through AI, Machine Learning, and cutting-edge technologies. I bring ideas to life with clean code and creative problem-solving.</em>
-</p>
+<br/><br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lakshay-chhabra-941b08235/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:lakshaychhabra248@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/LakshayChhabra248" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1500&color=A177FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=AI+%26+ML+Engineer+%7C+Full+Stack+Developer;Turning+Ideas+into+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
-## 🛠️ Tech Stack & Tools
+<br/>
+
+---
+
+## `whoami`
+
+```python
+class Lakshay:
+    pronouns    = "he/him"
+    education   = "B.Tech CS (AI & ML) @ PIET, Panipat"
+    passions    = ["Artificial Intelligence", "Machine Learning", "Full Stack Dev", "Android"]
+    currently   = "Building Sonic Bridge 🔈 + TapID 💳"
+    ask_me_about = ["Python", "AI/ML", "Kotlin", "Android Dev", "Problem Solving"]
+    fun_fact    = "I debug code at 2AM and call it 'deep focus mode' 🌙"
+    
+    def motto(self):
+        return "Code is poetry, and I'm writing epics."
+```
+
+---
 
 <div align="center">
 
-### 💻 Programming Languages
-<p>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://github.com/user-attachments/assets/6d409e47-b30d-4e43-95ba-550d81d2d1b3" alt="Java" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="65" height="65" />
-</p>
-
-### 🌐 Web Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50" />
-</p>
-
-### 🤖 AI/ML & APIs
-<p>
-  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini API"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-</p>
-
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="65" height="65" />
-</p>
+## ⚡ Tech Arsenal
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<table align="center">
+<tr>
+  <td align="center" width="130">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55"/><br/>
+    <sub><b>Python</b></sub>
+  </td>
+  <td align="center" width="130">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55"/><br/>
+    <sub><b>JavaScript</b></sub>
+  </td>
+  <td align="center" width="130">
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55"/><br/>
+    <sub><b>C++</b></sub>
+  </td>
+  <td align="center" width="130">
+    <img src="https://skillicons.dev/icons?i=kotlin" width="55"/><br/>
+    <sub><b>Kotlin</b></sub>
+  </td>
+  <td align="center" width="130">
+    <img src="https://skillicons.dev/icons?i=java" width="55"/><br/>
+    <sub><b>Java</b></sub>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=html" width="55"/><br/>
+    <sub><b>HTML5</b></sub>
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=css" width="55"/><br/>
+    <sub><b>CSS3</b></sub>
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br/>
+    <sub><b>Tailwind</b></sub>
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=tensorflow" width="55"/><br/>
+    <sub><b>TensorFlow</b></sub>
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=git" width="55"/><br/>
+    <sub><b>Git</b></sub>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=vscode" width="55"/><br/>
+    <sub><b>VS Code</b></sub>
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=androidstudio" width="55"/><br/>
+    <sub><b>Android Studio</b></sub>
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white&labelColor=4285F4" height="30"/><br/>
+    <sub><b>Gemini API</b></sub>
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="30"/><br/>
+    <sub><b>Scikit-learn</b></sub>
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="30"/><br/>
+    <sub><b>Pandas</b></sub>
+  </td>
+</tr>
+</table>
+
+---
+
+<div align="center">
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-### 🌟 Production-Ready Applications
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A177FF&center=true&vCenter=true&width=500&lines=Crafted+with+precision.+Built+with+passion." />
 
 </div>
+
+<br/>
+
+<details open>
+<summary><h3>🏆 &nbsp; Production-Ready Applications</h3></summary>
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<h3>📊 ScoreSight</h3>
+<a href="https://github.com/LakshayChhabra248/My-Projects/tree/main/ScoreSight">
+  <img src="https://img.shields.io/badge/View%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 📊 [ScoreSight](https://github.com/LakshayChhabra248/My-Projects/tree/main/ScoreSight)
-**Advanced Student Analytics Dashboard**
+> **Advanced Student Analytics Dashboard**
 
-A comprehensive desktop application for analyzing student performance with beautiful visualizations and insightful reports.
+A desktop powerhouse for student performance analysis — turning raw CSV/Excel data into beautiful, actionable reports in seconds.
 
-**✨ Key Features:**
-- 📁 Import data from CSV/Excel formats
-- 🏆 Automated topper & failure analysis
-- 📈 Interactive charts & visualizations
-- 📄 Professional PDF report generation
+```
+✦ Import CSV / Excel data instantly
+✦ Automated topper & failure detection
+✦ Interactive chart visualizations
+✦ One-click professional PDF export
+```
 
-**🛠️ Tech Stack:**
-<br>
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-5A92E6?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
+<h3>💬 Gemini AI ChatBot</h3>
+<a href="https://github.com/LakshayChhabra248/My-Projects/tree/main/Gemini%20API%20User">
+  <img src="https://img.shields.io/badge/View%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 💬 [Gemini AI ChatBot](https://github.com/LakshayChhabra248/My-Projects/tree/main/Gemini%20API%20User)
-**Intelligent Conversational AI**
+> **Intelligent Conversational AI**
 
-Real-time AI-powered chatbot leveraging Google's Gemini API for natural, context-aware conversations.
+A real-time AI chatbot powered by Google's Gemini API — understands context, responds naturally, and looks stunning doing it.
 
-**✨ Key Features:**
-- 🤖 Powered by Google Gemini AI
-- ⚡ Real-time response generation
-- 💡 Context-aware conversations
-- 🎨 Modern, intuitive UI
+```
+✦ Powered by Google Gemini AI
+✦ Real-time response streaming
+✦ Context-aware multi-turn chat
+✦ Modern, intuitive interface
+```
 
-**🛠️ Tech Stack:**
-<br>
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google-gemini&logoColor=white)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
+<h3>🗂️ Clear the Clutter</h3>
+<a href="https://github.com/LakshayChhabra248/My-Projects/tree/main/Clear%20the%20Clutter">
+  <img src="https://img.shields.io/badge/View%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 🎯 [Hangman Game](https://github.com/LakshayChhabra248/My-Projects/tree/main/Hangman%20Game)
-**AI-Enhanced Word Game**
+> **Smart File Organizer**
 
-Modern take on the classic hangman with AI-powered hints and sleek GUI.
+Drop it in any messy folder — watch it self-organize. Automatically detects, categorizes, and sorts files at lightning speed.
 
-**✨ Key Features:**
-- 🧠 AI-generated word meanings
-- ⌨️ Smart alphabet hints
-- 🎮 Multiple difficulty levels
-- 🎨 Beautiful, responsive UI
+```
+✦ Auto file-type detection
+✦ Smart folder categorization
+✦ Fully customizable sort rules
+✦ Blazing-fast processing
+```
 
-**🛠️ Tech Stack:**
-<br>
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🗂️ [Clear the Clutter](https://github.com/LakshayChhabra248/My-Projects/tree/main/Clear%20the%20Clutter)
-**Smart File Organizer**
-
-Intelligent file management tool that automatically categorizes and organizes files by type.
-
-**✨ Key Features:**
-- 🔍 Automatic file type detection
-- 📂 Smart folder categorization
-- ⚙️ Customizable sorting rules
-- ⚡ Lightning-fast organization
-
-**🛠️ Tech Stack:**
-<br>
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
+<h3>📈 CSV Analyzer</h3>
+<a href="https://github.com/LakshayChhabra248/My-Projects/tree/main/CSV%20Analyzer">
+  <img src="https://img.shields.io/badge/View%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 📊 [CSV Analyzer](https://github.com/LakshayChhabra248/My-Projects/tree/main/CSV%20Analyzer)
-**Data Analysis Tool**
+> **Data Exploration Toolkit**
 
-Powerful CSV data analyzer with comprehensive statistical analysis and visualization capabilities.
+Upload any dataset and get instant statistical insights, visual breakdowns, and automated reports without writing a single query.
 
-**✨ Key Features:**
-- 📈 Statistical analysis
-- 🔍 Data exploration
-- 📊 Visual insights
-- 📝 Automated reporting
+```
+✦ Deep statistical analysis
+✦ Interactive data exploration
+✦ Visual charts & graphs
+✦ Automated report generation
+```
 
-**🛠️ Tech Stack:**
-<br>
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
+<h3>🎯 Hangman Reimagined</h3>
+<a href="https://github.com/LakshayChhabra248/My-Projects/tree/main/Hangman%20Game">
+  <img src="https://img.shields.io/badge/View%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 🔢 [World of Mathematics](https://github.com/LakshayChhabra248/My-Projects/tree/main/World%20of%20Mathematics)
-**Mathematical Computing Tool**
+> **AI-Powered Word Game**
 
-Comprehensive mathematics toolkit for various computational tasks and problem-solving.
+Classic hangman, supercharged. AI fetches real-time word meanings, smart hints guide you, and the sleek UI keeps you hooked.
 
-**✨ Key Features:**
-- 🧮 Multiple math operations
-- 📐 Geometry calculations
-- 📊 Statistical functions
-- 🎯 Interactive interface
+```
+✦ AI-generated word meanings
+✦ Intelligent alphabet hints
+✦ Multiple difficulty tiers
+✦ Responsive GUI design
+```
 
-**🛠️ Tech Stack:**
-<br>
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google-gemini&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+<h3>🔢 World of Mathematics</h3>
+<a href="https://github.com/LakshayChhabra248/My-Projects/tree/main/World%20of%20Mathematics">
+  <img src="https://img.shields.io/badge/View%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+> **Mathematical Computing Suite**
+
+An all-in-one math toolkit — from arithmetic to geometry to statistics — built for students and curious minds alike.
+
+```
+✦ Arithmetic & algebra operations
+✦ Geometry calculations
+✦ Statistical functions
+✦ Clean interactive interface
+```
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 </td>
 </tr>
 </table>
 
+</details>
+
+<br/>
+
+<details>
+<summary><h3>🎮 &nbsp; Classic Games Collection</h3></summary>
+
+<br/>
+
 <div align="center">
-
-### 🎮 Classic Game Collection
-
 <table>
 <tr>
 <td align="center" width="33%">
-
-**🎲 Guess the Number**
-<br><br>
-<img src="https://github.com/user-attachments/assets/6d409e47-b30d-4e43-95ba-550d81d2d1b3" width="48" height="48" alt="Java" />
-<br>
-<sub>[View Project](https://github.com/LakshayChhabra248/My-Projects/tree/main/Guess%20the%20Number%20Game)</sub>
-
+  <img src="https://skillicons.dev/icons?i=java" width="48"/><br/><br/>
+  <b>🎲 Guess the Number</b><br/>
+  <sub>Number guessing with smart feedback</sub><br/><br/>
+  <a href="https://github.com/LakshayChhabra248/My-Projects/tree/main/Guess%20the%20Number%20Game">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  </a>
 </td>
 <td align="center" width="33%">
-
-**✂️ Rock, Paper, Scissors (Java)**
-<br><br>
-<img src="https://github.com/user-attachments/assets/6d409e47-b30d-4e43-95ba-550d81d2d1b3" width="48" height="48" alt="Java" />
-<br>
-<sub>[View Project](https://github.com/LakshayChhabra248/My-Projects/tree/main/Rock%2C%20Paper%2C%20Scissors%20(Java))</sub>
-
+  <img src="https://skillicons.dev/icons?i=java" width="48"/><br/><br/>
+  <b>✂️ Rock Paper Scissors</b><br/>
+  <sub>Compete vs AI — Java Edition</sub><br/><br/>
+  <a href="https://github.com/LakshayChhabra248/My-Projects/tree/main/Rock%2C%20Paper%2C%20Scissors%20(Java)">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  </a>
 </td>
 <td align="center" width="33%">
-
-**✂️ Rock, Paper, Scissors (Python)**
-<br><br>
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
-<br>
-<sub>[View Project](https://github.com/LakshayChhabra248/My-Projects/tree/main/Rock%2C%20Paper%2C%20Scissors%20(Python))</sub>
-
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48"/><br/><br/>
+  <b>✂️ Rock Paper Scissors</b><br/>
+  <sub>Compete vs AI — Python Edition</sub><br/><br/>
+  <a href="https://github.com/LakshayChhabra248/My-Projects/tree/main/Rock%2C%20Paper%2C%20Scissors%20(Python)">
+    <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+  </a>
 </td>
 </tr>
 </table>
+</div>
+
+</details>
+
+---
+
+<div align="center">
+
+## 🔭 Currently Building
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚧 Under Development
-
-<div align="center">
+> *These aren't just projects — they're products.*
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔈 Sonic Bridge
-**Multi-Device Audio Synchronization**
+### 🔈 SyncTune
+<img src="https://img.shields.io/badge/Status-In%20Active%20Development-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 
-Revolutionary Android app for real-time audio sync across multiple devices using advanced networking protocols.
+> **Multi-Device Audio Synchronization**
 
-**🎯 Objectives:**
-- 📡 Wi-Fi Direct & Bluetooth connectivity
-- 🔄 Real-time audio synchronization
-- ⚡ Ultra-low latency streaming
-- 🌐 NSD & NTP/PTP protocols
+Imagine pressing play on your phone and every speaker in the room syncs — perfectly, instantly, wirelessly. That's SyncTune.
 
-**🛠️ Tech Stack:**
-<br>
+```
+📡  Wi-Fi Direct & Bluetooth mesh
+🔄  Real-time audio sync engine
+⚡  Ultra-low latency streaming
+🌐  NSD + NTP/PTP protocol stack
+```
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-**Status:** 🔨 In Active Development
 
 </td>
 <td width="50%" valign="top">
 
-### 💳 TapID
-**Next-Gen School Management System**
+### 💳 Neo Card
+<img src="https://img.shields.io/badge/Status-In%20Active%20Development-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Platform-Android%20%7C%20Web-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 
-Comprehensive NFC-based ecosystem for modern school management with cutting-edge security features.
+> **Next-Gen School Management Ecosystem**
 
-**🎯 Objectives:**
-- 💳 NFC-enabled student IDs
-- 💰 Integrated payment system
-- 📍 Geofencing & location tracking
-- 🚨 Emergency response system
+A complete NFC-powered school OS — from attendance to payments to emergency response, all in one tap.
 
-**🛠️ Tech Stack:**
-<br>
+```
+💳  NFC-enabled smart student IDs
+💰  Integrated canteen payment system
+📍  Geofencing & real-time tracking
+🚨  One-tap emergency response
+```
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**Status:** 🔨 In Active Development
-
 </td>
 </tr>
 </table>
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Statistics
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LakshayChhabra248&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FF&icon_color=A177FF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshayChhabra248&theme=tokyonight&hide_border=true&background=0D1117&ring=A177FF&fire=A177FF&currStreakLabel=A177FF" alt="GitHub Streak" width="48%" />
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayChhabra248&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=LakshayChhabra248&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FF&icon_color=A177FF&text_color=C9D1D9&rank_icon=github&card_width=400" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshayChhabra248&theme=tokyonight&hide_border=true&background=0D1117&ring=A177FF&fire=FF6B6B&currStreakLabel=A177FF&sideLabels=C9D1D9&dates=C9D1D9" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayChhabra248&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FF&text_color=C9D1D9&langs_count=8" height="260"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LakshayChhabra248&bg_color=0D1117&color=A177FF&line=A177FF&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌟 Let's Connect & Collaborate!
+---
 
 <div align="center">
 
-<p>
-  <em>I'm always excited to collaborate on innovative projects and explore new opportunities in AI, Machine Learning, and Full Stack Development!</em>
-</p>
+## 🌐 Let's Build Something Great
 
-<p>
-  <a href="mailto:lakshaychhabra248@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lakshaychhabra248%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-  </a>
-</p>
+<br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/lakshay-chhabra-941b08235/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/LakshayChhabra248" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-  </a>
-</p>
+<em>Whether it's an AI model, a mobile app, or a wild idea at 3AM — I'm in.</em>
 
-<br>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+<a href="https://www.linkedin.com/in/lakshay-chhabra-941b08235/">
+  <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:lakshaychhabra248@gmail.com">
+  <img src="https://img.shields.io/badge/Drop%20a%20Mail-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/LakshayChhabra248">
+  <img src="https://img.shields.io/badge/Explore%20My%20Work-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=LakshayChhabra248&color=A177FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Keep%20Building.%20Keep%20Shipping.&fontSize=24&fontColor=A177FF&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
